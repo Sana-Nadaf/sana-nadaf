@@ -1,4 +1,4 @@
-This is My First Git Repository👋
+This is My First Git Repository.
 Author-sana Nadaf
 <!--
 **Sana-Nadaf/sana-nadaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
